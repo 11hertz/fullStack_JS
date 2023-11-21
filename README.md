@@ -131,7 +131,7 @@ p.179 composition
 p.180 splice  
 splice 함수를 순수 함수로 구현하시오.  
   
-p.181 **Algorithm Coding Test - 'Range Sum'  
+p.181 Algorithm Coding Test - 'Range Sum'  
 다음과 같은 정수 배열이 주어졌을 때 구간의 합을 구하는 rangeSum 함수를 작성하시오.  
   
 Algorithm Coding Test - 'KeyPair'  
