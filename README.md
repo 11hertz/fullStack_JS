@@ -40,25 +40,25 @@ p.127 neverFullCallStackMemoizedFibonacci
   
 ### Object & Property
 p.132 practice01  
-1. for-in문을 사용하여 배열의 인덱스를 출력하시오.  
+for-in문을 사용하여 배열의 인덱스를 출력하시오.    
+    
+p.132 practice01  
+for-in문을 사용하여 배열의 원소를 출력하시오.  
   
 p.132 practice01  
-2. for-in문을 사용하여 배열의 원소를 출력하시오.  
+for-in문을 사용하여 프로퍼티 이름을 출력하시오.  
   
 p.132 practice01  
-3. for-in문을 사용하여 프로퍼티 이름을 출력하시오.  
+for-in문을 사용하여 프로퍼티 값을 출력하시오.  
   
 p.132 practice01  
-4. for-in문을 사용하여 프로퍼티 값을 출력하시오.  
+for-of문을 사용하여 프로퍼티 값을 출력하시오.  
   
 p.132 practice01  
-5. for-of문을 사용하여 프로퍼티 값을 출력하시오.  
+level 프로퍼티가 열거되지 않도록 설정하시오.  
   
 p.132 practice01  
-6. level 프로퍼티가 열거되지 않도록 설정하시오.  
-  
-p.132 practice01  
-7. role 프로퍼티는 읽기전용으로 설정하시오.  
+role 프로퍼티는 읽기전용으로 설정하시오.  
   
 p.133 practice02  
 1. [[‘A’, 10, 20], [‘B’, 30, 40], [‘C’, 50, 60, 70]] 배열을 객체로 만드시오.  
