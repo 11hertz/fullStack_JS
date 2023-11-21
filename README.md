@@ -5,7 +5,7 @@
 p.45 다음 변수들의 논리적 메모리(Stack & Heap) 모델을 그려보세요.  
   
 ### Operator  
-p.50 modPriority  
+#### p.50 modPriority  
 산술연산자 중 %의 연산자 우선순위를 증명하시오. (vs +- vs */ vs **)  
   
 p.55 point  
