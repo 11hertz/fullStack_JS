@@ -134,7 +134,7 @@ splice 함수를 순수 함수로 구현하시오.
 p.181 Algorithm Coding Test - 'Range Sum'  
 다음과 같은 정수 배열이 주어졌을 때 구간의 합을 구하는 rangeSum 함수를 작성하시오.  
   
-Algorithm Coding Test - 'KeyPair'  
+p.182 Algorithm Coding Test - 'KeyPair'  
 다음과 같은 정수 배열이 주어지고, 양의 정수 N이 주어졌을 때, 배열에서 합해서 N이되는 두 개의 요소(index)를 찾는 keyPair(arr, N)함수를 작성하시오.  
   
 ### Object Oriented Programming(OOP)
