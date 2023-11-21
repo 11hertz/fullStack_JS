@@ -61,11 +61,11 @@ p.132 practice01
 role 프로퍼티는 읽기전용으로 설정하시오.  
   
 p.133 practice02  
-1. [[‘A’, 10, 20], [‘B’, 30, 40], [‘C’, 50, 60, 70]] 배열을 객체로 만드시오.  
+[[‘A’, 10, 20], [‘B’, 30, 40], [‘C’, 50, 60, 70]] 배열을 객체로 만드시오.  
 => { ‘A’: [10, 20], ‘B’: [30, 40], ‘C’: [50, 60, 70] }  
   
 p.133 practice02  
-2. 위에서 만든 객체를 다시 배열로 만드시오.  
+위에서 만든 객체를 다시 배열로 만드시오.  
 { ‘A’: [10, 20], ‘B’: [30, 40], ‘C’: [50, 60, 70] }  
 => [[‘A’, 10, 20], [‘B’, 30, 40], [‘C’, 50, 60, 70]]  
   
@@ -105,10 +105,10 @@ p.164 평가문제 - range
 다음과 같은 정수 배열을 생성하는 range 함수를 구현하시오.  
   
 p.168 classNames  
-1. 배열의 각 원소를 String으로 변환하시오.  
+배열의 각 원소를 String으로 변환하시오.  
   
 p.168 classNames  
-2. 다음과 같이 작동하는 classNames 함수를 작성하시오.  
+다음과 같이 작동하는 classNames 함수를 작성하시오.  
   
 p.169 powSqrt  
 주어진 정수 배열에서 각 요소를 제곱한 값들과 제곱근 값들을 반환하는 함수를 for-of, forEach, map을 사용하여 각각 작성하시오.  
@@ -142,10 +142,10 @@ p.197 proxy_user
 Emp type의 hong 객체에 fullName 기능을 Accessor Property를 사용하지 말고, proxy 생성자 함수를 이용하여 구현하시오.  
   
 p.199 prototype&array  
-1. mapBy(), findBy(), filterBy()  
+mapBy(), findBy(), filterBy()  
   
 p.199 prototype&array  
-2. firstObject, lastObject  
+firstObject, lastObject  
   
 p.203 stackQueue  
 class와 Array를 이용하여 Stack과 Queue를 구현하시오.  
@@ -164,7 +164,7 @@ P.213 itAdd
 두 개의 수를 입력 받아 더하기를 수행하는 제너레이터를 작성하시오.  
   
 p.214 IteratorToGeneratorStackQueue  
-1. 이전에 iterator로 작성한 Stack과 Queue의 iterator를 generator 함수로 작성하시오.  
+이전에 iterator로 작성한 Stack과 Queue의 iterator를 generator 함수로 작성하시오.  
   
 p.214 IteratorToGeneratorSubway  
 지하철 노선도 iterator를 generator함수로 작성하시오. (기능은 동일함)  
@@ -187,31 +187,31 @@ p.229 ExtendedDeepCopy
   
 ### Number, Math, Date
 p.242 random  
-1. 특정 범위의 난수를 발생시키는 함수를 작성하시오.  
+특정 범위의 난수를 발생시키는 함수를 작성하시오.  
   
 p.242 random  
-2. 1 ~ 10 사이의 난수를 무수히(1_000_000_000) 발생시켜 분포를 나타내시오. (난수가 과연 고르게 분포될까?!)  
+1 ~ 10 사이의 난수를 무수히(1_000_000_000) 발생시켜 분포를 나타내시오. (난수가 과연 고르게 분포될까?!)  
   
 p. 246 Date  
-1. 1970년 1월 1일과 1970년 1월 2일의 차이를 초로 나타내시오.  
+1970년 1월 1일과 1970년 1월 2일의 차이를 초로 나타내시오.  
   
 p. 246 Date  
-2. 이 달의 날짜 5개를 무작위로 만들어 역순으로 정렬하시오.  
+이 달의 날짜 5개를 무작위로 만들어 역순으로 정렬하시오.  
   
 p. 246 Date  
-3. 내년(2024년)의 오늘(8월 30일)의 요일을 출력하시오.  
+내년(2024년)의 오늘(8월 30일)의 요일을 출력하시오.  
   
 p.246 Date  
-4. 오늘(10월 30일)로 부터 100일 후의 날짜는?  
+오늘(10월 30일)로 부터 100일 후의 날짜는?  
   
 p.248 dateCalendar  
 특정 날짜를 받으면 해당 월의 달력을 출력하시오.  
   
 p.252 debounce&throttle  
 0.1초에 한번씩 rand를 총 20회 호출하였을 때, 다음의 각 상황에서 총 몇 번 호출되는지 증명하시오.  
-1. 단순 호출 시  ⇒ 총 20회 실행!  
-2. 1초 Debounce 호출 시   ⇒ 1회 (총 3초에 실행)  
-3. 1초 Throttle 호출 시   ⇒ 총 2초 동안 ⇒ 2회 실행!(1초에 한번씩)  
+- 단순 호출 시  ⇒ 총 20회 실행!
+- 1초 Debounce 호출 시   ⇒ 1회 (총 3초에 실행)  
+- 1초 Throttle 호출 시   ⇒ 총 2초 동안 ⇒ 2회 실행!(1초에 한번씩)  
   
 p.253 lectureDebounceThrottle  
 지난 번 lecture.html에서, 국어 수업은 debounce로 클릭하고, 수학 수업은 throttle로 클릭하도록 구현하시오. (각 0.5초 딜레이)  
@@ -221,28 +221,28 @@ p.254 searchDebounceThrottle
   
 ### String & RegExp
 p.259 isEndJaum  
-1. 문자열이 한글 자음으로 끝나는지 체크하는 함수를 작성하시오.  
+문자열이 한글 자음으로 끝나는지 체크하는 함수를 작성하시오.  
   
 p.259 AttachJosa  
-2. 조사 '이/가, 을/를, 은/는'를 알아서 붙이는 함수를 작성하시오.  
+조사 '이/가, 을/를, 은/는'를 알아서 붙이는 함수를 작성하시오.  
   
 p.261 stringFormatting  
 오른쪽과 같은 형태로 출력하는 fmt 함수를 작성하시오.  
   
 p.266 hasHangul  
-1. 문자열에 한글이 있는지 체크하는 hasHangul(str) 함수를 작성하시오.  
+문자열에 한글이 있는지 체크하는 hasHangul(str) 함수를 작성하시오.  
   
 p.266 isHangul  
-2. 문자열이 모두 한글인지 체크하는 isHangul(str) 함수를 작성하시오.  
+문자열이 모두 한글인지 체크하는 isHangul(str) 함수를 작성하시오.  
   
 p.267 searchInitial  
 초성 검색을 하는 search함수를 정규식을 이용하여 작성하시오.  
   
 p.269 UpperToLower  
-1. 문자열 str에서 대문자만 골라 소문자로 변환하세요.  
+문자열 str에서 대문자만 골라 소문자로 변환하세요.  
   
 p.269 PhoneNumberFormatting  
-2. 전화번호를 정확한 형식으로 출력하는 함수를 작성하시오.  
+전화번호를 정확한 형식으로 출력하는 함수를 작성하시오.  
   
 ### Module
 p.279 module  
@@ -253,9 +253,9 @@ p.281 modulesOnBrowser
 debounce등 사용 함수는 이전에 작성한 모듈을 import해서 refac하시오.  
 
 p.291 makeNpmModule  
-1. npm에 본인만의 utils 모듈을 만들어 publish하자 (CJS로 1.0.0 버전)  
-2. 1번에서 CJS 방식을 ESM방식으로 변경하고 version은 1.0.1로 up하자!  
-3. 1.0.1 버전을 다시 install하여 이상없는지 테스트해보자! (재설치)  
+- npm에 본인만의 utils 모듈을 만들어 publish하자 (CJS로 1.0.0 버전)  
+- 1번에서 CJS 방식을 ESM방식으로 변경하고 version은 1.0.1로 up하자!  
+- 1.0.1 버전을 다시 install하여 이상없는지 테스트해보자! (재설치)  
   
 ### Asynchronous Programming
 p.317 callbackToPromise  
