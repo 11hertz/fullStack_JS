@@ -1,6 +1,6 @@
 # Javascript TryThis CheckList
 
-Operator
+### Operator
 
 - [ ]  p.50 modPriority
 **산술연산자 중 %의 연산자 우선순위를 증명하시오. (vs +- vs */ vs **)**
@@ -189,7 +189,7 @@ Collection 클래스를 상속받아 List 메소드들과 클래스 메소드 ar
 - [ ]  p.269 PhoneNumberFormatting
 2 - **전화번호를 정확한 형식으로 출력하는 함수를 작성하시오.**
 
-### * Module
+### Module
 
 - [ ]  p.279 module
 **기존에 작성한 소스 파일들에 대해, 다음과 같이 소스 구조를 정비하시오.**
