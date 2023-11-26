@@ -8,7 +8,7 @@
 **1 - for문을 이용하여 다음과 같이 출력하는 제어문을 작성하시오.**
 - [x]  p.55 point
 **2 - 소숫점 5자리까지 입력가능하고, 이 값에 0.1을 더해서 결과를 출력하려 한다. 사용자가 0.21354 를 입력했을 때 정확한 값을 출력하시오.**
-- [ ]  p.59 **functionSignature
+- [x]  p.59 **functionSignature
 user 객체를 받아서 id와 name을 출력하는 함수를 3개의 함수로 작성하시오. (Function signature를 3개 이상으로 표현하기)**
 
 ### Control Statement & Repetitive Statement
