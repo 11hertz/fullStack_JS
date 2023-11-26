@@ -2,7 +2,7 @@
 
 ### Operator
 
-- [ ]  p.50 modPriority
+- [x]  p.50 modPriority
 **산술연산자 중 %의 연산자 우선순위를 증명하시오. (vs +- vs */ vs **)**
 - [ ]  p.55 point
 **1 - for문을 이용하여 다음과 같이 출력하는 제어문을 작성하시오.**
