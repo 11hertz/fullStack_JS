@@ -60,7 +60,7 @@ user 객체를 받아서 id와 name을 출력하는 함수를 3개의 함수로 
 
 - [ ]  p.142 **ObjectDeepCopy
 객체 kim을 깊은 복사하는 deepCopy 함수를 작성하시오.**
-- [x]  p.146 **practice03
+- [x]  p.146 practice03
 **어떤 함수를 호출하기 전에 before() 함수를, 호출 후에 after() 함수를 항상 실행하는 template() 함수를 만드시오.**
 - [x]  p.147 **practice04
 다음과 같은 결과가 출력되도록 practice3에서 작성한 코드를 수정하세요.**
