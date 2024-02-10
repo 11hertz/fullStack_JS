@@ -72,7 +72,7 @@ user 객체를 받아서 id와 name을 출력하는 함수를 3개의 함수로 
 getNextWeek 함수는 widx변수에 부수 효과(side effect)가 있다. 이를 부수 효과가 없도록 변경하시오. (hint: closure, IIFE)**
 - [ ]  p.152 **lecture(HTML)
 앞 장표의 getNextWeek 함수를 발전시켜 다음과 같이 각 수업 별 요일을 선택하는 HTML을 작성하시오. (각각 요일 순회하는 순수함수로 작성)**
-- [ ]  p.155 reduce
+- [x]  p.155 reduce
 **Array.reduce 함수를 고차 함수로 직접 구현하시오.**
 
 ### Array
